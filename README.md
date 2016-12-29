@@ -1,25 +1,31 @@
-## Your Name
+## Mitchell Bayer-Goldman
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
 
-#### This Skill
+#### Innate Problem Solver
+From achieving 100% in my Further Mathematics A-Level to landing a job at Barclays Capital's Solutions Group, my natural problem solving skills have been at my core. I have always been the "go-to" guy to get things done, which in all truth probably stems from a Google and putting my hand up and asking those most experienced in the field. Problem solving has been something I've been reveling in during my time so far at Makers Academy as I embark in to the world of software development.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Hunger to Learn
+(Barcap, NEZ, MA)
 
-- Experience
-- Achievements
-- Evidence
+#### Attention to Detail
+(Barcap / High Frequency algorithm)
 
-#### Another Skill
+#### Thrives Under Pressure
+(Internships)
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### A People's Person
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+During university I ran an event management business that was razor focused on relationship management - my ability to connect with people has been a continuos strength. Further along the line, at Barclays Capital I was the youngest in the investment bank to have a roster of CEOs & CFOs as my clients and was placed on the Global Action Committee (GAC). At the GAC I was responsible for liaising with peers and juniors on working conditions, technology and various initiatives including our annual charity ball.
+
+#### Additional Skills
+
+- Methodologies: Agile, SCRUM,
+- Languages: Native English & Swedish, Advanced French
+- VBA
+- Complex Modeling (inc. Monte Carlo & Regression Analysis)
 
 ## Education
 
@@ -35,6 +41,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### University of Warwick (Sep'09 to July'12)
 
 - Studied Economics, specialising in; Applied Economics, Quantitative Techniques, Corporate Finance and Law
+- Awarded an academic scholarship
 - 2nd Class Honors
 - Team Leader in a project devoted to building a High Frequency Trading algorithm using R and C++. Our strategy was based on momentum in various Futures Markets which was highly profitable but was unfortunately axed as new market rules came into place by the regulators
 - Student Investor [www.studentinvestor.org – finished 2nd]
@@ -42,6 +49,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Haberdasher's Aske's School for Boys'
 - A-Levels: Economics (A), Mathematics (A), Further Mathematics (A) and French (A)
+- 100% in my Further Mathematics A-Level and achieved a gold award at the Senior Mathematics Challenge
 - 10 GCSE’s: 8 A*s, 2 Bs
 - British champion in karting for Junior Max [aged 14-16], winning team in the BUKC championship
 - WOHAA [Wings of Hope Appreciation Award – raised in excess of £3000 to charity]
@@ -49,10 +57,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 
 #### Any other qualifications
-- Awarded an academic scholarship at Warwick University
 - FCA approved with CISI Derivatives, Markets & Regulations qualifications
 - Selected on to the Fresh Minds “One’s to Watch” programme
-- 100% in my Further Mathematics A-Level and achieved a gold award at the Senior Mathematics Challenge
 
 
 ## Experience
