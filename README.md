@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Jan'16 to Apr'16)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,11 +32,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### University of Warwick (Sep'09 to July'12)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Studied Economics, specialising in; Applied Economics, Quantitative Techniques, Corporate Finance and Law
+- 2nd Class Honors
+- Team Leader in a project devoted to building a High Frequency Trading algorithm using R and C++. Our strategy was based on momentum in various Futures Markets which was highly profitable but was unfortunately axed as new market rules came into place by the regulators
+
+#### Haberdasher's Aske's School for Boys'
+- A-Levels: Economics (A), Mathematics (A), Further Mathematics (A) and French (A)
+- 10 GCSE’s: 8 A*s, 2 Bs
 
 #### Any other qualifications
 
