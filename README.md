@@ -3,29 +3,33 @@
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
-
 #### Innate Problem Solver
 From achieving 100% in my Further Mathematics A-Level to landing a job at Barclays Capital's Solutions Group, my natural problem solving skills have been at my core. I have always been the "go-to" guy to get things done, which in all truth probably stems from a Google and putting my hand up and asking those most experienced in the field. Problem solving has been something I've been reveling in during my time so far at Makers Academy as I embark in to the world of software development.
 
 #### Hunger to Learn
-(Barcap, NEZ, MA)
+Throughout life I have always enjoyed a challenge and taken self-development in my stride. I believe learning and constructive feedback are a matrimony which has helped me learn a plethora of new skills. Examples where my hunger to learn has been evident include;
+- Learning three languages (Swedish, French, Italian)
+- Team leader at a project with university peers dedicated to building a high frequency trading algorithm
+- Acclaimed as a first-in-class technical whizz-kid in the confusing world of derivatives at Barclays
+- Taking on a CCO role at a startup, developing skills in areas I had never previously explored like branding & marketing
+- Leaving finance to study software development so my career can be aligned with my long term vision of the world to come
 
 #### Attention to Detail
-(Barcap / High Frequency algorithm)
+I believe attention to detail is paramount to success in the software development world and is a skill I have highly appreciated during my tenure at Barclays Capital. Super competitive trades were won or lost at less than 0.1bps (0.001%) and given the massive trade sizes, getting it wrong could of cost the bank millions. My attention to detail within trading meant that I was given some of the world's largest banks as clients (ABN Amro, ING, Rabobank) where I perpetually outperformed peers.
 
 #### Thrives Under Pressure
-(Internships)
+I'm one of those annoying people whom thrives under pressure, which can be pretty exhausting at times! For some counterintuitive reason, I actually enjoy being under the gun and stressed. It became obvious at secondary school when I was in the middle sets of my classes and was seriously underperforming, struggling to get C's. My headmaster controversially put me in top sets and within a year I was one of the school's top scholars. This trend has been displayed throughout my professional life as I converted all three investment banking internships to offers. Thereafter, at Barclays capital, my ability to execute split second trades was heralded. More recently, in the past six months I've taken on a role as a CCO for a rapidly growing startup, taken steps to build my own startup and have been immersing myself in software development ahead of Makers Academy.
 
 #### A People's Person
 
-During university I ran an event management business that was razor focused on relationship management - my ability to connect with people has been a continuos strength. Further along the line, at Barclays Capital I was the youngest in the investment bank to have a roster of CEOs & CFOs as my clients and was placed on the Global Action Committee (GAC). At the GAC I was responsible for liaising with peers and juniors on working conditions, technology and various initiatives including our annual charity ball.
+During university I ran an event management business that was razor focused on relationship management - my ability to connect with people has been a source of continuos strength. Further along the line, at Barclays Capital I was the youngest in the investment bank to have a roster of CEOs & CFOs as my clients and was placed on the Global Action Committee (GAC). At the GAC I was responsible for liaising with peers and juniors on working conditions, technology and various initiatives including our annual charity ball.
 
 #### Additional Skills
 
-- Methodologies: Agile, SCRUM,
+- Methodologies: Agile, SCRUM, Lean
 - Languages: Native English & Swedish, Advanced French
 - VBA
-- Complex Modeling (inc. Monte Carlo & Regression Analysis)
+- Complex Modeling & Data Analysis (inc. Monte Carlo & Regression Analysis)
 
 ## Education
 
@@ -63,7 +67,7 @@ During university I ran an event management business that was razor focused on r
 
 ## Experience
 **NEZ** (Oct'16 to Present)    
-*Solutions Consultant*
+*Chief Commercial Officer*
 - Responsible for; Financials, Funding, Data analysis, Sales & Marketing and Operator relationships
 - Our first SEIS funding round was over-allocated, receiving investment from Nick Robertson (Founder - ASOS) and Martin Robinson (Chairman - Casual Dining Group), to name but a few
 - Launched PPC campaign and pioneered an internal data dashboard to track consumer behavior
