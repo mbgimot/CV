@@ -32,7 +32,7 @@ I believe attention to detail is paramount to success in software development an
 - Complex Modeling & Data Analysis (inc. Monte Carlo & Regression Analysis)
 
 ## Education
-#### Makers Academy (Jan'16 to Apr'16)
+#### Makers Academy (Jan'17 to Apr'17)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
