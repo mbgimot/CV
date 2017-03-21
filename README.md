@@ -1,11 +1,11 @@
 ## Mitchell Bayer-Goldman
-I believe coding is one of the most prominent sectors in changing the world for the better and continues to do so at an accelerating rate. Whether its through initiatives like healthtech, utilising IBM’s Dr. Watson machine learning algorithms, or Facebook’s mission to connect the globe, coding is the heartbeat of our future. The continued digitalisation of the world’s economy through apps, algorithms and big data is only increasing the scope and opportunity of change. It’s this burning desire to be a part of an industry that offers such potential, that has motivated me to quit my previous job in Finance and embark in the world of software development.
+I believe coding is one of the most prominent sectors in changing the world for the better and continues to do so at an accelerating rate. Whether its through initiatives utilising IBM’s Watson machine learning algorithms, or Facebook’s mission to connect the globe, coding is the heartbeat of our future. The continued digitalisation of the world’s economy through rapid-fire apps and big data is only increasing the scope and opportunity of change. It’s this burning desire to be a part of an industry that offers such potential, that has motivated me to quit my previous job in Finance and embark in the world of software development.
 
 I am an ambitious and passionate individual, seeking a Full Stack Junior Developer role where I can consolidate and extend my programming acumen from Makers Academy, while also gaining exposure to product management and business strategy. My ideal role would be part of a team of talented and insightful colleagues, where there is a strong potential for personal development and growth within the firm. I've been a cog in a massive machine for a long time and would love to pursue an opportunity where I can deliver genuine value-add.
 
 ## Skills
 #### Innate Problem Solver
-From achieving 100% in my Further Mathematics A-Level to landing a job in Barclays Capital's Solutions Group, my natural problem solving skills have been at my core. I have always been the "go-to" guy to get things done, which in all truth probably stems from a Google and putting my hand up and asking those most experienced in the field. Problem solving has been something I've been reveling in during my time so far at Makers Academy as I hone in on my software development skills.
+From achieving 100% in my Further Mathematics A-Level to landing a job in Barclays Capital's Solutions Group, my natural problem solving skills have been at my core. I have always been the "go-to" guy to get things done, which in all truth probably stems from a Google and putting my hand up and asking those most experienced in the field. Problem solving has been something I've been revelling in during my time so far at Makers Academy as I hone in on my software development skills.
 
 #### Hunger to Learn
 Throughout life I have always enjoyed a challenge and taken self-development in my stride. I believe learning and constructive feedback are a matrimony which has helped me learn a plethora of new skills. Examples where my hunger to learn has been evident include;
@@ -16,13 +16,13 @@ Throughout life I have always enjoyed a challenge and taken self-development in 
 - Leaving finance to study software development so my career can be aligned with my long term vision of the world to come
 
 #### Thrives Under Pressure
-I'm one of those annoying people whom thrives under pressure, which can be pretty exhausting at times! For some counterintuitive reason, I actually enjoy being under the gun and stressed. It became obvious at secondary school when I was in the middle sets of my classes and was seriously underperforming, struggling to get C's. My headmaster controversially put me in top sets and within a year I was one of the school's top scholars. This trend has been displayed throughout my professional life as I converted all three investment banking internships (Goldman Sachs - Spring , JP Morgan - Summer, Barclays Capital - Autumn)to offers. Thereafter, at my full time role at Barclays capital, my ability to execute split second trades was heralded. More recently, in the past six months I've taken on a role as a CCO for a rapidly growing startup, taken steps to build my own startup and have been immersing myself in software development ahead of Makers Academy.
+I'm one of those annoying people whom thrives under pressure, which can be pretty exhausting at times! For some counterintuitive reason, I actually enjoy being under the gun. My desire to challenge myself has been displayed throughout my professional life as I converted all three investment banking internships (Goldman Sachs - Spring , JP Morgan - Summer, Barclays Capital - Autumn) to offers. Thereafter, at my full time role at Barclays capital, my ability to execute split second trades was heralded. More recently, in the past six months I've taken on a role as a CCO for a rapidly growing startup, taken steps to build my own startup and have been immersing myself in software development ahead of Makers Academy.
 
 #### A People's Person
 During university I ran an event management business that was razor focused on relationship management - my ability to connect with people has been a source of continuos strength. Further along the line, at Barclays Capital I was the youngest in the investment bank to have a roster of CEOs & CFOs as my clients and was placed on the Global Action Committee (GAC). At the GAC I was responsible for liaising with peers and juniors on working conditions, technology and various initiatives including our annual charity ball.
 
 #### Attention to Detail
-I believe attention to detail is paramount to success in software development and is a skill I have highly appreciated during my tenure at Barclays Capital. Super competitive trades were won or lost at less than 0.1bps (0.001%) and given the massive trade sizes, getting the fine-print wrong could of been explosive. My attention to detail within trading meant that I was given some of the world's largest banks as clients (ABN Amro, ING, Rabobank) where I perpetually outperformed peers.
+I believe attention to detail is paramount to success in software development and is a skill I have highly appreciated during my tenure at Barclays Capital. Super competitive trades were won or lost at less than 0.1bps (0.001%) apart and given the massive trade sizes, getting the fine-print wrong could of been explosive. My attention to detail within trading meant that I was given some of the world's largest banks as clients (ABN Amro, ING, Rabobank) where I perpetually outperformed peers.
 
 #### Additional Skills
 
@@ -34,18 +34,18 @@ I believe attention to detail is paramount to success in software development an
 ## Education
 #### Makers Academy (Jan'17 to Apr'17)
 
-- Curiosity and hungry passion for code
+- Curiosity and a hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- OOP, TDD, SOLID, MVC, BDD
+- Pair programming & software craftsmanship (inc. XP Values)
+- Key Languages learnt: Javascript, React, Node.js, JQuery, Ruby, Rails
+- Key test-frameworks learnt: Rspec, Jasmine, Enzyme, Mocha, Capybara
 
 #### University of Warwick (Sep'09 to July'12)
 
 - Studied Economics, specialising in; Applied Economics, Quantitative Techniques, Corporate Finance and Law
 - Awarded an academic scholarship
-- 2nd Class Honors
+- 2nd Class Honours
 - Team Leader in a project devoted to building a High Frequency Trading algorithm using R and C++. Our strategy was based on momentum in various Futures Markets which was highly profitable but was unfortunately axed as new market rules came into place by the regulators
 - Student Investor [www.studentinvestor.org – finished 2nd]
 
